@@ -1,0 +1,12 @@
+C:\Users\Nijat\source\repos\Arsha.App\Arsha.Core\bin\Debug\net7.0\Arsha.Core.deps.json
+C:\Users\Nijat\source\repos\Arsha.App\Arsha.Core\bin\Debug\net7.0\Arsha.Core.dll
+C:\Users\Nijat\source\repos\Arsha.App\Arsha.Core\bin\Debug\net7.0\Arsha.Core.pdb
+C:\Users\Nijat\source\repos\Arsha.App\Arsha.Core\obj\Debug\net7.0\Arsha.Core.csproj.AssemblyReference.cache
+C:\Users\Nijat\source\repos\Arsha.App\Arsha.Core\obj\Debug\net7.0\Arsha.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nijat\source\repos\Arsha.App\Arsha.Core\obj\Debug\net7.0\Arsha.Core.AssemblyInfoInputs.cache
+C:\Users\Nijat\source\repos\Arsha.App\Arsha.Core\obj\Debug\net7.0\Arsha.Core.AssemblyInfo.cs
+C:\Users\Nijat\source\repos\Arsha.App\Arsha.Core\obj\Debug\net7.0\Arsha.Core.csproj.CoreCompileInputs.cache
+C:\Users\Nijat\source\repos\Arsha.App\Arsha.Core\obj\Debug\net7.0\Arsha.Core.dll
+C:\Users\Nijat\source\repos\Arsha.App\Arsha.Core\obj\Debug\net7.0\refint\Arsha.Core.dll
+C:\Users\Nijat\source\repos\Arsha.App\Arsha.Core\obj\Debug\net7.0\Arsha.Core.pdb
+C:\Users\Nijat\source\repos\Arsha.App\Arsha.Core\obj\Debug\net7.0\ref\Arsha.Core.dll

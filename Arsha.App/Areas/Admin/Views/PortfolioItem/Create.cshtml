@@ -1,0 +1,28 @@
+﻿@model PortfolioItem;
+<div class="container">
+<form method="post" enctype="multipart/form-data">
+    <div class="mb-3 mt-3">
+            <label asp-for="@Model.Name" class="form-label">Name:</label>
+            <input type="text" class="form-control" asp-for="@Model.Name" placeholder="Enter Name">
+            <span class="text text-danger" asp-validation-for="@Model.Name"></span>
+    </div>
+    <div class="mb-3 mt-3">
+            <label asp-for="@Model.file" class="form-label">Photo:</label>
+            <input type="file" class="form-control" accept="image/*" asp-for="@Model.file" placeholder="Enter Photo">
+            <span class="text text-danger"  asp-validation-for="@Model.file"></span>
+    </div>
+        <div class="mb-3 mt-3">
+            <select asp-for="PortfolioCategoryId" class="form-select" aria-label="Default select example">
+                <option selected>Select Category</option>
+                @foreach (var item in ViewBag.PortfolioCate)
+                {
+                    <option value="@item.Id">@item.Name</option>
+
+                }
+            </select>
+            <span class="text text-danger" asp-validation-for="PortfolioCategoryId"></span>
+        </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+    @Html.AntiForgeryToken()
+</form>
+</div>

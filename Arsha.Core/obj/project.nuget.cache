@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "QR6R49U1bhZtsHdYlZybz+oAj02hbMD826rzHBd7uFnwEu9Mqa3CuLCal+n3dNXDOxInCm8ESEFFvmuvxRcXAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nijat\\source\\repos\\Arsha.App\\Arsha.Core\\Arsha.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nijat\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\Nijat\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0\\microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Nijat\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Nijat\\.nuget\\packages\\system.io.abstractions\\19.2.29\\system.io.abstractions.19.2.29.nupkg.sha512",
+    "C:\\Users\\Nijat\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512",
+    "C:\\Users\\Nijat\\.nuget\\packages\\testableio.system.io.abstractions\\19.2.29\\testableio.system.io.abstractions.19.2.29.nupkg.sha512",
+    "C:\\Users\\Nijat\\.nuget\\packages\\testableio.system.io.abstractions.wrappers\\19.2.29\\testableio.system.io.abstractions.wrappers.19.2.29.nupkg.sha512"
+  ],
+  "logs": []
+}
